@@ -1,9 +1,9 @@
 wolfpack
-=====
+========
 
-An OTP application
+Dicom solution.
 
-Build
------
+Milestones
+----------
 
-    $ rebar3 compile
+[ ] Echo Response - no focus on style or reusability
