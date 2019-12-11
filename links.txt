@@ -1,0 +1,2 @@
+Message Control Header (MCH)
+http://dicom.nema.org/medical/dicom/current/output/chtml/part08/sect_E.2.html
